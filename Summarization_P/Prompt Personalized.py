@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Codice migliorato per la tesi:
 "Prompt Engineering personalizzato per una migliore interazione uomo-macchina"
 Integrato con Retrieval-Augmented Generation e analisi dei risultati.
 """
