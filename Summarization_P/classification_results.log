@@ -1,0 +1,56 @@
+2025-02-23 10:57:05,617 - INFO - Inizio elaborazione dei dati di classificazione.
+2025-02-23 10:57:05,646 - INFO - CSV caricato correttamente.
+2025-02-23 10:57:05,646 - INFO - Colonne presenti nel CSV: ['timestamp', 'model', 'selected_monument', 'user_query', 'age_group', 'interest', 'narrator_type', 'language', 'temperature', 'chunk_size', 'overlap_size', 'retrieval_method', 'additional_instructions', 'final_summary', 'token_count', 'eval_metrics', 'ape_details']
+2025-02-23 10:57:05,648 - INFO - Righe dopo eliminazione NaN: 252
+2025-02-23 10:57:05,651 - INFO - Distribuzione delle classi target: {'Basso': 84, 'Medio': 84, 'Alto': 84}
+2025-02-23 10:57:05,651 - INFO - Bilanciamento delle classi accettabile; non applico SMOTE.
+2025-02-23 10:57:05,651 - INFO - Prime 5 righe delle feature:
+2025-02-23 10:57:05,654 - INFO -    temperature  chunk_size  overlap_size  token_count     model age_group   interest narrator_type language retrieval_method
+0          0.7        1200           200          861  llama3.2   giovane     storia    Tour Guide  Italian    ElasticSearch
+1          0.7        1200           200          849  llama3.2    adulto     storia    Tour Guide  Italian    ElasticSearch
+2          0.7        1200           200          849  llama3.2   anziano     storia    Tour Guide  Italian    ElasticSearch
+3          0.7        1200           200          849  llama3.2   anziano  religione     Historian  Italian    ElasticSearch
+4          0.7        1200           200          861  llama3.2   giovane  religione     Historian  Italian    ElasticSearch
+2025-02-23 10:57:05,659 - INFO - Forma dell'array delle feature processate: (252, 25)
+2025-02-23 10:57:05,659 - INFO - Train/test split effettuato con test_size=0.2.
+2025-02-23 10:57:05,751 - INFO - Report di classificazione:
+{
+  "Alto": {
+    "precision": 0.6470588235294118,
+    "recall": 0.6875,
+    "f1-score": 0.6666666666666666,
+    "support": 16.0
+  },
+  "Basso": {
+    "precision": 0.6,
+    "recall": 0.8,
+    "f1-score": 0.6857142857142857,
+    "support": 15.0
+  },
+  "Medio": {
+    "precision": 0.7142857142857143,
+    "recall": 0.5,
+    "f1-score": 0.5882352941176471,
+    "support": 20.0
+  },
+  "accuracy": 0.6470588235294118,
+  "macro avg": {
+    "precision": 0.653781512605042,
+    "recall": 0.6625,
+    "f1-score": 0.6468720821661998,
+    "support": 51.0
+  },
+  "weighted avg": {
+    "precision": 0.6595814796506838,
+    "recall": 0.6470588235294118,
+    "f1-score": 0.6415115065634096,
+    "support": 51.0
+  }
+}
+2025-02-23 10:57:05,751 - INFO - Accuracy: 0.6470588235294118
+2025-02-23 10:57:06,208 - INFO - CV Accuracy scores: [0.23529412 0.31372549 0.58       0.6        0.48      ]
+2025-02-23 10:57:06,208 - INFO - Media CV Accuracy: 0.44180392156862747
+2025-02-23 10:57:06,208 - INFO - Matrice di Confusione (% per classe): [[80.   13.33  6.67]
+ [25.   50.   25.  ]
+ [18.75 12.5  68.75]]
+2025-02-23 10:57:26,271 - INFO - Elaborazione completata. I risultati sono stati salvati nel log e mostrati nei plot.

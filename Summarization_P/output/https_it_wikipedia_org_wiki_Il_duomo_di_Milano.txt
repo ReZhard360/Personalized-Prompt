@@ -1,0 +1,6 @@
+Page URL: https://it.wikipedia.org/wiki/Il_duomo_di_Milano
+Name: Il duomo di Milano
+Description: Alessandro Cicognini Il duomo di Milano è un film documentario del 1947 diretto da Alessandro Blasetti.
+Location: 
+Details: [{"Titolo originale": "Il duomo di Milano"}, {"Paese di produzione": "Italia"}, {"Anno": "1947"}, {"Dati tecnici": "B/N"}, {"Genere": "documentario"}, {"Regia": "Alessandro Blasetti"}, {"Produttore": "Universalia"}, {"Fotografia": "Mario Craveri"}, {"Montaggio": "Alessandro Blasetti"}, {"Musiche": "Enzo Masetti\nAlessandro Cicognini"}]
+

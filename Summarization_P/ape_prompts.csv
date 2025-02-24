@@ -1,0 +1,31 @@
+prompt,summary,token_count,bert_score
+"Sei un esperto di patrimonio culturale e storico. Racconta in maniera narrativa e coinvolgente. Metti in evidenza gli aspetti artistici e architettonici. Scrivi il riassunto in italiano. Analizza i dettagli del monumento e genera un riassunto conciso:
+Nome: Cattedrale di Palermo
+Tipo: Cattedrale
+Località: , , 
+Descrizione: LaBasilica Cattedrale Metropolitana Primaziale della Santa Vergine Maria Assunta, nota semplicemente comeDuomooppureCattedrale di Palermo, è il principaleluogo di cultocattolicodella città diPalermoesede arcivescoviledell'omonima arcidiocesi metropolitana.[1][2][3] Dal 3 luglio2015fa parte delPatrimonio dell'umanitànell'ambito del sito serialePalermo arabo-normanna e le cattedrali di Cefalù e Monreale.
+Fonte: Wikipedia - https://it.wikipedia.org/wiki/Cattedrale_di_Palermo
+Istruzioni aggiuntive: Nessuna istruzione aggiuntiva.
+Il riassunto deve essere fedele ai dati.","La Cattedrale di Palermo, spesso chiamata semplicemente Duomo, è il principale luogo di culto cattolico della città siciliana e sede dell'arcivescovado omonimo. Questo splendido edificio sacro, che fa parte del Patrimonio mondiale dell'UNESCO dal 3 luglio 2015 insieme al sito seriale Palermo arabo-normanna e alle cattedrali di Cefalù e Monreale, è una vera e propria gioielleria architettonica.
+
+La sua costruzione, iniziata nel 1397 sotto la supervisione dell'arcivescovo Matteo de'Mari, ha richiesto secoli di lavoro per essere completata: l'aspetto attuale è il risultato della fusione di stili architettonici diversi che si sono susseguiti nel tempo, dall'arabo-normanno al gotico e barocco.
+
+Il Duomo è caratterizzato da una facciata ricca di decorazioni, tra cui il portale principale, realizzato dal maestro Antonio Gagini tra il 1524 e il 1542, e le due torri, che sovrastano i fianchi della cattedrale. Entrando nel Duomo, si può ammirare la cupola centrale, decorata con affreschi di Giacomo Serpotta e l'altare maggiore, realizzato in marmo nero e dorato.
+
+All'interno del Duomo si trova anche il sepolcro di Federico II di Svevia, uno dei più importanti sovrani della storia siciliana, che è stato realizzato da Ruggero Paterno tra il 1498 e il 1502. Il sepolcro è considerato un capolavoro dell'arte funebre del tardo XV secolo.
+
+Oltre alla sua bellezza artistica, la Cattedrale di Palermo è anche un importante testimone della storia e della cultura siciliana: ha infatti conservato numerose opere d'arte che riflettono le diverse influenze culturali che hanno caratterizzato la Sicilia nel corso dei secoli.",274,0.6363427639007568
+"Immagina di essere una guida turistica appassionata ed esperta in beni culturali. Racconta in maniera narrativa e coinvolgente. Metti in evidenza gli aspetti artistici e architettonici. Scrivi il riassunto in italiano. Utilizza le informazioni seguenti per creare un riassunto coinvolgente:
+• Nome: Cattedrale di Palermo
+• Tipo: Cattedrale
+• Località: , , 
+• Descrizione: LaBasilica Cattedrale Metropolitana Primaziale della Santa Vergine Maria Assunta, nota semplicemente comeDuomooppureCattedrale di Palermo, è il principaleluogo di cultocattolicodella città diPalermoesede arcivescoviledell'omonima arcidiocesi metropolitana.[1][2][3] Dal 3 luglio2015fa parte delPatrimonio dell'umanitànell'ambito del sito serialePalermo arabo-normanna e le cattedrali di Cefalù e Monreale.
+• Fonte: Wikipedia - https://it.wikipedia.org/wiki/Cattedrale_di_Palermo
+Istruzioni aggiuntive: Nessuna istruzione aggiuntiva.
+Assicurati che il riassunto sia informativo.","La Cattedrale di Palermo, conosciuta anche come Duomo o Cattedrale della Santa Vergine Maria Assunta, è il cuore pulsante della città siciliana e una delle più belle ed emblematiche architetture religiose della Sicilia. Posizionata in piazza Bellini, al centro del quartiere Kalsa, questa cattedrale è un esempio di stile architettonico che spazia dai periodi arabo-normanno e gotico all'epoca barocca.
+
+Il suo nome ufficiale è Basilica Cattedrale Metropolitana Primaziale della Santa Vergine Maria Assunta, ed è il principale luogo di culto cattolico della città di Palermo e sede dell'arcivescovado omonimo dell'arcidiocesi metropolitana. Dal 3 luglio 2015 fa parte del Patrimonio dell'Umanità nel contesto del sito seriale ""Palermo arabo-normanna e le cattedrali di Cefalù e Monreale"".
+
+La cattedrale è un vero e proprio mosaico di stili architettonici e artistici, che riflettono la complessa storia della città e del suo popolo. La sua facciata, costituita da una serie di portali e rosoncini, è uno dei più belli esempi di architettura normanna in Sicilia. All'interno, la cattedrale presenta un soffitto a crociera, con volte a sesto acuto che sorreggono le grandi finestre gotiche. Le navate laterali sono decorate con affreschi e statue di grande valore artistico, tra cui il celebre ""Gattopardo"" dello scultore Giuseppe Velasco.
+
+La cattedrale è una esperienza visiva e spirituale che non si dimentica facilmente. È un punto focale per chi visita la città di Palermo e un simbolo della sua storia, cultura e identità.",290,0.6877283453941345

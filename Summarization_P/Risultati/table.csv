@@ -1,0 +1,16 @@
+timestamp,model,selected_monument,user_query,age_group,interest,narrator_type,language,temperature,chunk_size,overlap_size,retrieval_method,additional_instructions,final_summary,token_count,eval_metrics,ape_details,,,,,,,,,,,,,,
+2025-02-10 15:20:58,llama3.2,GROTTA DI SAN CALOGERO,,giovane,storia,Tour Guide,Italian,0.7,1200,200,ElasticSearch,,"Sono qui per parlarti di una delle meraviglie più segrete della Sicilia: la Grotta di San Calogero, un romitorio rupestre che nasconde storie e segreti dell'antichità.
+
+Immagina di trovarsi sulla sommità di una montagna, circondata da una natura selvaggia e pittoresca. Ecco la scena: il IV secolo, quando San Calogero, un eremita cristiano, si rifugiò in queste grotte per cercare rifugio e spiritualità.
+
+Ma cosa c'era di particolare in questa grotta? Innanzitutto, era un luogo di guarigione. I vapore caldi e benefici che sprigionavano dalle pareti della grotta erano creduti a poter curare molte malattie, come l'artrite, il reumatismo, la gotta e la sciatica.
+
+Ma San Calogero non era solo un medico naturale. Era anche un eremita che cercava una vita di preghiera e ritiro. Ecco perché si trovò a costruire una piccola chiesetta al servizio dei pellegrini e degli ammalati.
+
+Tuttavia, è la costruzione dell'attuale basilica (iniziata nel 1530 e terminata nel 1644) a cambiare tutto. La nuova chiesa divenne il centro del culto per San Calogero e il suo romitorio fu trasformato in un luogo di pellegrinaggio.
+
+Oggi, la Grotta di San Calogero è un luogo di grande interesse storico e culturale. L'antico eremo, con le sue grotte e le sue stanze, è stato ristrutturato dai francescani nel 1948. E se vuoi visitarla, potrai fare così: devi scendere carponi attraverso una buca stretta per accedere all'ingresso.
+
+È un'avventura che vale la pena affrontare, non solo per scoprire le storie del passato, ma anche per sentirsi parte di una storia che risale a più di 1.800 anni fa.
+
+La Grotta di San Calogero è un esempio vivente della capacità dell'uomo di trovare la spiritualità e il benessere in mezzo alla natura. E se sei disposto a scendere le scale e ad avventurarti in questo romitorio rupestre, potrai scoprire cosa c'è di particolare in questa storia segreta della Sicilia.",861,"{""BERTScore_F1"": 0.6951717138290405, ""ROUGE_L"": 0.20131291028446388, ""BLEURT"": 0.76, ""BARTScore"": 0.8600328540821061, ""MoverScore"": 0.5533025443897521}","
